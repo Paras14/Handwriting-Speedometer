@@ -13,7 +13,7 @@ This Handwriting Speedometer can be used as a tool to measure you handwriting sp
 I feel like this project can be used to help struggling students, who have very slow handwriting speed and are often not able to complete their examination in time (Something that I have personally have struggled with in the past).
 
 
-<B/>SCOPE  OF IMPROVMENT IN THIS PROJECT<B/>
+SCOPE  OF IMPROVMENT IN THIS PROJECT
 
 Currently this project uses Amazon Textract API of AWS, what it means is that the image goes through the model trained by Engineers at Amazon to predict how many words are there in the image sent, this limits it to be used only while we are connected to the internet. Also it highly dependent on the internet speed, to send the photo and receive important information.
 What can be done instead is to train a model comprising of various, CNNs and RNNs layers to determine the number of handwritten words in the image. So that the calculations can be done locally on the system itself using that model. Although training a model is no joke you need tons and tons of data to train it, here data means images Handwritten text, and not just feeding them straight after clicking, the images need to be resized and labeled first by humans.
