@@ -12,6 +12,10 @@ APPLICATIONS
 This Handwriting Speedometer can be used as a tool to measure you handwriting speed and to help students have a competition among themselves.
 I feel like this project can be used to help struggling students, who have very slow handwriting speed and are often not able to complete their examination in time (Something that I have personally have struggled with in the past).
 
+SETTING UP THIS PROJECT
+For setting up this project you need to have the .ipynb file and an AWS account, with Rekognition API enable and BOTO3 downloaded and setup in your system.
+
+
 
 SCOPE  OF IMPROVMENT IN THIS PROJECT
 
