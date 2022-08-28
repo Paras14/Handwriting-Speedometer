@@ -15,6 +15,7 @@ I feel like this project can be used to help struggling students, who have very 
 SETTING UP THIS PROJECT
 For setting up this project you need to have the .ipynb file and an AWS account, with Textract API enable and BOTO3 downloaded and setup in your system.
 
+![image](https://user-images.githubusercontent.com/53565432/187084192-535a94c9-8c03-456e-81af-2a03269f3e80.png)
 
 
 SCOPE  OF IMPROVMENT IN THIS PROJECT
